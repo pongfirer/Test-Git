@@ -12,3 +12,5 @@ eee
 
 
 prepare push
+
+dev admin
